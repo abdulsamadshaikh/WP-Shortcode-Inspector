@@ -13,16 +13,6 @@
 
 WP Shortcode Inspector is a basic WordPress plugin that scans your site and generates a report of all shortcodes used across your content. The report includes each shortcode's status, indicating whether it is active or not.
 
-## Plugin Details
-
-- **Plugin Name:** WP Shortcode Inspector
-- **Plugin URI:** [https://getabdulsamad.com](https://getabdulsamad.com)
-- **Description:** Scan, analyze, and manage shortcodes across your WordPress site.
-- **Version:** 1.0.0
-- **Author:** Abdul Samad
-- **Author URI:** [https://getabdulsamad.com](https://getabdulsamad.com)
-- **License:** GPL-2.0+
-
 ## Features
 
 - 🔍 **Scan and Detect Shortcodes** – Identify all shortcodes used on your WordPress site.
@@ -42,11 +32,6 @@ WP Shortcode Inspector is a basic WordPress plugin that scans your site and gene
 1. After activation, go to **Tools → WP Shortcode Inspector**.
 2. Click **Scan Shortcodes** to analyze your website.
 3. View the report to check shortcode usage and their active status.
-
-## Screenshots
-
-1. **Shortcode Analysis Dashboard** – Get an overview of shortcode usage and status.
-2. **Shortcode Report** – Lists all shortcodes with their active status.
 
 ## Frequently Asked Questions
 
